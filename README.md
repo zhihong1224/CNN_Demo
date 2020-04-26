@@ -4,5 +4,5 @@
 2.使用resnet18迁移学习进行分类
 
 2020/4/26/udacity
-1.使用vgg16迁移学习进行flowers_photo的5分类任务
-2.Autoencoder
+1.使用vgg16迁移学习进行flowers_photo的5分类任务     
+2.Autoencoder     
