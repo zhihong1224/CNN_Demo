@@ -7,3 +7,6 @@
 1.使用vgg16迁移学习进行flowers_photo的5分类任务     
 2.Autoencoder     
 > linear autoencoder,convlutional autoencoder(no-upsampling,upsampling),denoising autoencoder
+
+2020/5/4/cs231n             
+1.StyleTransfer      
