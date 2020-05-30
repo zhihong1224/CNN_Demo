@@ -21,3 +21,6 @@
 
 2020/5/11/fastai              
 1.CNN可视化热度图                 
+
+2020/5/30/fastai       
+1. fastai.fc       
